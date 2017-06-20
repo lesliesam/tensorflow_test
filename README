@@ -1,2 +1,2 @@
 To run tensorflow
-source ~/tensorflow/bin/activate
+source ~/projects/tensorflow/bin/activate
